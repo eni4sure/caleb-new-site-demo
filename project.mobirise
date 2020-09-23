@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#931a3f",
@@ -39,6 +39,11 @@
         "css": "'Josefin Sans', sans-serif",
         "name": "Josefin Sans",
         "url": "https://fonts.googleapis.com/css?family=Josefin+Sans:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i"
+      },
+      {
+        "css": "'Graduate', display",
+        "name": "Graduate",
+        "url": "https://fonts.googleapis.com/css?family=Graduate:400"
       }
     ],
     "uniqCompNum": 52,
