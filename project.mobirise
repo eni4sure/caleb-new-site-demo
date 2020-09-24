@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caleb Schools",
-    "currentPage": "index.html",
+    "currentPage": "2020-2021-registration-form.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7325,7 +7325,7 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <!-- <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\"></h2> -->\n\t\t\t\t<!-- <img class=\"my-image\" src=\"../deltapi.svg\"> -->\n              \t<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSen66pQSI5RFVY_GcsIE2oOm9VRDI0pSvT3y_l2EIwRAx1T4w/viewform\" width=\"100%\" height=\"650\" frameborder=\"0\">\n              </iframe>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <!-- <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\"></h2> -->\n              \t<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSen66pQSI5RFVY_GcsIE2oOm9VRDI0pSvT3y_l2EIwRAx1T4w/viewform\" width=\"100%\" height=\"650\" frameborder=\"0\">\n              </iframe>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sbwlm0mjst",
           "_anchor": "custom-html-25",
           "_protectedParams": [],
